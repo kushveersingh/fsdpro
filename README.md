@@ -1,5 +1,5 @@
 # fsdpro
-#all git operarions purvs@LAPTOP-Q0API0QC MINGW64 /e/calculator-app-in-react $ git init Initialized empty Git repository in E:/calculator-app-in-react/.git/
+#all git operarions kushveer@LAPTOP-Q0API0QC MINGW64 /e/calculator-app-in-react $ git init Initialized empty Git repository in E:/calculator-app-in-react/.git/
 
 kushveer@LAPTOP-Q0API0QC MINGW64 /e/calculator-app-in-react (master) $ git add .
 
