@@ -1,3 +1,6 @@
+#git operations
+
+
 # fsdpro
 #all git operarions kushveer@LAPTOP-Q0API0QC MINGW64 /e/calculator-app-in-react $ git init Initialized empty Git repository in E:/calculator-app-in-react/.git/
 
